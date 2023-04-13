@@ -1,5 +1,6 @@
 import { createSlice } from '@reduxjs/toolkit';
 
+/* eslint-disable no-param-reasign*/
 const booksSlice = createSlice({
   name: 'books',
   initialState: {
