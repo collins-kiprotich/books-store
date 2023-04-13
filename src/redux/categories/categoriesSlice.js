@@ -1,6 +1,6 @@
 import { createSlice } from '@reduxjs/toolkit';
 
-/* eslint-disable no-param-reasign*/
+/* eslint-disable no-param-reasign */
 const categoriesSlice = createSlice({
   name: 'categories',
   initialState: {
